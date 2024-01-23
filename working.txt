@@ -1,0 +1,5 @@
+conda create -p venv python==3.12 -y
+
+use -> conda activate SQLWEB/
+
+streamlit run app.py
